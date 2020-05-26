@@ -1,7 +1,7 @@
 # BIO302_MartineRS
 GitHub introduction, BIO302
 
-Qeustions:
+Questions:
 
 Q: NAME
 A: 
